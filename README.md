@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Lucas and I'm a Jr Front-End Developer, from Brazil!</h2>
 
 ###
 
